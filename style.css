@@ -1,0 +1,161 @@
+body{
+    font-family: Roboto Condensed;
+}
+.navbar{
+    width: 1263px;
+    margin-top: -35px;
+}
+.image{
+    width: 1263px;
+    margin-top: -10px; 
+}
+#banner{
+    position: relative;
+}
+#banner .container{
+    position: absolute;
+    text-transform: uppercase;
+    margin-left: 80px;
+    color: white;
+    transform: translate(-0%, -175%);
+}
+#banner h5{
+    font-size: 10px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+#banner h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+    line-height: 40px;
+}
+#banner .button{
+    width: 120px;
+    height: 40px;
+    margin-top: 15px;
+}
+#banner .lorem{
+    text-transform: lowercase;
+    margin-top: 20px;
+}
+#service .container{
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+#service .item{
+    width: 300px;
+    height: 260px;
+    margin-top: 50px;
+    margin-left: 80px;
+    background-color: rgb(213, 190, 182);
+}
+#service .item2{
+    width: 300px;
+    height: 12px;
+    background-color: rgb(211, 159, 142);
+}
+#service img{
+    padding: 30px 0 0 30px;
+}
+#service h4{
+    font-size: 24px;
+    padding: 20px 0 0 30px;
+    text-transform: uppercase;
+    width: 300px;
+}
+#service .lorem{
+    padding: 10px 20px 0 30px;
+    width: 300px;
+}
+#love .container{
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+#love .text{
+    text-transform: lowercase;
+    width: 600px;
+    font-size: 12px;
+    margin-left: 240px;
+}
+#love .button{
+    width: 120px;
+    height: 40px;
+    margin-top: 15px;
+}
+#love .gallery{
+    width: 600px;
+    height: 300px;
+}
+h3{
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+h4{
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+h5{
+    font-size: 10px;
+    text-transform: uppercase;
+}
+#love .text2{
+    font-size: 12px;
+    margin-left: 420px;
+    width: 412px;
+    height: 48px;
+}
+.readmore{
+    font-size: 10px;
+    font-weight: 500;
+    margin-top: -20px;
+}
+#love i{
+    padding-left: 3px;
+}
+#benefit .container{
+    width: 1263px;
+    height: 600px;
+    background-size: cover;
+    background-color: rgb(219, 214, 214);
+    margin-top: 100px;
+    padding-top: 50px;
+}
+#benefit .list{
+    margin-top: 30px;
+    width: 1000px;
+}
+#part .container{
+    margin-top: 50px;
+}
+#part .item{
+    margin-top: 30px;
+    width: 1000px;
+    height: 400px;
+}
+#part .link{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 880px;
+}
+#blog .container{
+    margin-top: 50px;
+}
+#blog .cta{
+    margin-left: -75px;
+    width: 1264px;
+    height: 600px;
+    margin-bottom: 70px;
+}
+#blog .post{
+    width: 1100px;
+    margin-top: 64px;
+}
+#blog .footer{
+    width: 1263px;
+    margin-top: 64px;
+    margin-left: -75px;
+}
+
